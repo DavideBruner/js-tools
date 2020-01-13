@@ -1,0 +1,22 @@
+{
+  "name": "@davidebruner/prettier-config",
+  "private": false,
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Davide Bruner",
+    "email": "davidebruner@hotmail.it",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidebruner/js-tools/tree/master/packages/prettier-config"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "peerDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

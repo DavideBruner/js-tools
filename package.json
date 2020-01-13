@@ -1,0 +1,14 @@
+{
+  "name": "@davidebruner/js-tools",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Davide Bruner",
+    "email": "davidebruner@hotmail.it",
+    "url": ""
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
